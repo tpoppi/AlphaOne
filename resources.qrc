@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AlfiereBianco.png</file>
+        <file>AlfiereNero.png</file>
+        <file>CavalloBianco.png</file>
+        <file>CavalloNero.png</file>
+        <file>PedoneBianco.png</file>
+        <file>PedoneNero.png</file>
+        <file>ReBianco.png</file>
+        <file>ReginaBianca.png</file>
+        <file>ReginaNera.png</file>
+        <file>ReNero.png</file>
+        <file>TorreBianca.png</file>
+        <file>TorreNera.png</file>
+        <file>styleBlack.css</file>
+        <file>styleselected.css</file>
+        <file>styleWhite.css</file>
+    </qresource>
+</RCC>
